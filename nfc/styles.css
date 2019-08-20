@@ -30,12 +30,12 @@ h2 {
 
 .car__image-container {
   background: url("car.png") no-repeat right bottom fixed;
-  background-size: 50vw;
+  /*background-size: 50vw;*/
 }
 
 .container {
   width: 95%;
-  height: 80vh;  
+  height: 100vh;  
   margin: 0 auto 20vh auto;
 
   display: flex;
@@ -49,3 +49,4 @@ h2 {
 
   display: block;
 }
+
