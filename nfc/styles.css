@@ -36,7 +36,7 @@ h2 {
 .container {
   width: 95%;
   height: 100vh;  
-  margin: 17vh auto;
+  margin: 15vh auto;
 
   display: flex;
   flex-direction: column;
