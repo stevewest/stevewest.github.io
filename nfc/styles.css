@@ -29,14 +29,14 @@ h2 {
 }
 
 .car__image-container {
-  background: url("car.png") no-repeat right bottom fixed;
-  /*background-size: 50vw;*/
+  background: url("car.png") no-repeat top right fixed;
+  background-size: 50vw;
 }
 
 .container {
   width: 95%;
   height: 100vh;  
-  margin: 0 auto 20vh auto;
+  margin: 15vh auto 20vh auto;
 
   display: flex;
   flex-direction: column;
